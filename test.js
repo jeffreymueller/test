@@ -1,1 +1,1 @@
-var msg = 'hello world';
+let message = 'HELLO WORLD';
